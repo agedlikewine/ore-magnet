@@ -1,10 +1,16 @@
 #####
-# Ore Magnet (1.16-1.17 compatibility)
+# Ore Magnet (Compatibility: 1.16.2 - 1.17)
 #####
 
-# INSTRUCTIONS:
-#	1. Place this .zip file into your .minecraft/saves/<world>/datapacks/ folder. DON'T EXTRACT IT;
-#	2. After joining in your world, type /reload to activate the datapack (Cheats required).
+# INSTRUCTIONS for Pre-Generated World:
+#	1. Place ore-magnet.zip file into your .minecraft/saves/<world>/datapacks/ folder. You don't need to extract the file.
+#	2. Enter the world.
+# 3. Type /reload to activate the datapack (this step requires cheats to be enabled).
+# 4. If cheats was not enabled, proceed with these steps:
+# # 1. Open Game Menu.
+# # 2. Click on "Open to LAN".
+# # 3. Set "Allow Cheats" to ON.
+# # 4. Start LAN World.
 
-# Made by aged. Updated by NickTh3M4l4chi.
-#  (https://github.com/aged)
+# Made by Aged
+# (github.com/agedlikewine)
