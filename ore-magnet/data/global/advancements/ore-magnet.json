@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "ᴍɪɴɪɴɢ ᴛᴏᴏʟꜱ: ᴏʀᴇ ᴍᴀɢɴᴇᴛ",
+        "description": "ᴘᴜʟʟ ᴀʟʟ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴏʀᴇꜱ ᴡʜᴇɴ ᴍɪɴɪɴɢ",
+        "icon": {
+            "item": "minecraft:netherite_pickaxe"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:aged",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

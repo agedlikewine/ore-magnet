@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#aged:oremagnet/nether_diamond",
+    {
+      "id": "#aged:oremagnet/cnc_diamond",
+      "required": false
+    },
+    "#aged:oremagnet/ores_iron"
+  ]
+}

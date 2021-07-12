@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:coal_ore",
+    "minecraft:lapis_ore",
+    "minecraft:redstone_ore",
+    "minecraft:diamond_ore",
+    "minecraft:emerald_ore",
+    "minecraft:nether_quartz_ore",
+    {
+      "id": "#aged:oremagnet/cnc_xp",
+      "required": false
+    },
+    "#aged:oremagnet/nether_xp"
+  ]
+}

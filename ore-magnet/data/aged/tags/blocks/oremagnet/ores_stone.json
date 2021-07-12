@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_ore",
+    "minecraft:lapis_ore",
+    {
+      "id": "#aged:oremagnet/cnc_stone",
+      "required": false
+    },
+    "#aged:oremagnet/ores_wooden"
+  ]
+}

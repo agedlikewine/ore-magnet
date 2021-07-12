@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:coal_ore",
+    "minecraft:nether_quartz_ore",
+    "#aged:oremagnet/nether_wooden",
+    {
+      "id": "#aged:oremagnet/cnc_wooden",
+      "required": false
+    }
+  ]
+}

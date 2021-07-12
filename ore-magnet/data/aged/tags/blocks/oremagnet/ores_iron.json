@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:gold_ore",
+    "minecraft:redstone_ore",
+    "minecraft:diamond_ore",
+    "minecraft:emerald_ore",
+    {
+      "id": "#aged:oremagnet/cnc_iron",
+      "required": false
+    },
+    "#aged:oremagnet/ores_stone"
+  ]
+}

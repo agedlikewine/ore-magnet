@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Data Packs",
+        "description": "List of installed data packs",
+        "icon": {
+            "item": "minecraft:enchanted_book"
+        },
+        "background": "minecraft:textures/block/mossy_stone_bricks.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

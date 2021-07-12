@@ -1,0 +1,245 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.coal": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.iron": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.gold": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.lapis": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.quartz": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.redstone": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.diamond": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.emerald": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.nthr_gold": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.gilded": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.debris": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.mcopper": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.mtin": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.muranium": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.mtitanium": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.copper": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.dcopper": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.diron": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.dgold": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.dredstone": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.demerald": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.dcoal": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.dlapis": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "aom.ddiamond": {
+          "min": 1,
+          "max": 2147483647
+        }
+      }
+    }
+  ]
+}
