@@ -37,4 +37,4 @@ execute if score $1.17 aom.tool matches 1 run function aged:oremagnet/install_ca
 schedule function aged:oremagnet/post_load 1t
 
 scoreboard players set $installed aom.tool 1
-data merge storage aged:oremagnet/data {FirstReload:1b, Version:"3.0", Installed:1b}
+data merge storage aged:oremagnet/data {FirstReload:1b, Version:"1.0", Installed:1b}
